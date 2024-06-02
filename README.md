@@ -1,1 +1,1 @@
-# go-dist-svc
+# go-prolog
